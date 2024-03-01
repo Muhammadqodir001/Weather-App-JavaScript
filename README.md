@@ -43,4 +43,4 @@ If you'd like to contribute to the Weather Web App, feel free to fork the reposi
 For any inquiries or feedback regarding the Weather Web App, please feel free to contact the project maintainer at insert email or contact information.
 
 ## Screenshots
-![alt text](weather.png)
+![alt text](Screenshot.png)
